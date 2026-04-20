@@ -1,3 +1,4 @@
+<img width="692" height="802" alt="화면 캡처 2026-04-20 121519" src="https://github.com/user-attachments/assets/b78b3690-e16e-4391-9c45-3508b7157dde" />
 # 🌿 민트 버킷 리스트 (Mint Bucket List) 웹 앱 프로젝트
 
 이 프로젝트는 초보자를 위한 프론트엔드 개발 연습용 웹 애플리케이션입니다. React와 Tailwind CSS를 사용하여 깔끔하고 산뜻한 디자인으로 제작되었습니다.
