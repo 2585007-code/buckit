@@ -1,10 +1,10 @@
-<img width="692" height="802" alt="alalala" src="https://github.com/user-attachments/assets/98bcaf9a-1856-474f-8973-7aff20ff1446" />
+
 # ✅ Bucket List Checker
 
 간단한 할 일 관리 웹앱입니다.
 
 ## 📸 스크린샷
-alalala
+<img width="692" height="802" alt="alalala" src="https://github.com/user-attachments/assets/98bcaf9a-1856-474f-8973-7aff20ff1446" />
 ## 🚀 사용법
 1. index.html을 실행한다
 2. 할 일을 입력하고 추가한다
