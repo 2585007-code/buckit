@@ -1,3 +1,4 @@
+<img width="692" height="802" alt="alalala" src="https://github.com/user-attachments/assets/98bcaf9a-1856-474f-8973-7aff20ff1446" />
 # ✅ Bucket List Checker
 
 간단한 할 일 관리 웹앱입니다.
