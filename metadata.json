@@ -1,0 +1,6 @@
+{
+  "name": "민트 버킷 리스트 (Mint Bucket List)",
+  "description": "심플하고 깔끔한 민트색 테마의 버킷 리스트 앱입니다. 할 일 관리와 데이터 저장이 가능합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
